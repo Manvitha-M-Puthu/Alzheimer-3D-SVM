@@ -1,0 +1,6 @@
+NIfTI_Data/
+Raw_Data/
+Hippocampus_Masks/
+FastSurfer_Output/
+archived_experiments/
+dcm2niix.exe
